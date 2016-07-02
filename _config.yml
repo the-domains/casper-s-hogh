@@ -1,0 +1,28 @@
+name: Casper S høgh
+favicon: null
+layout_spectrum: 0.20688566472381353
+typography_spectrum: 0.040855360915884376
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5423641104716808
+  lightness: 0.7331603839993477
+  saturation: 0.9211745967622846
+  rhythmicContrast: 0.9526213339995593
+purpose: []
